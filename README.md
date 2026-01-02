@@ -1,3 +1,5 @@
+Forked from original project — primary contributor
+
 # Electrical-Training
 
 ## Welcome to Calsol Electrical Training!
