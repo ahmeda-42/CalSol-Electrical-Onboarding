@@ -1,4 +1,4 @@
-Forked from original project — primary contributor
+*Forked from CalSol/CalSol-Electrical-Onboarding
 
 # Electrical-Training
 
